@@ -1,0 +1,9 @@
+Delivery drones are unmanned aerial vehicles (UAVs) used to deliver items, ranging from food, medical supplies, and other consumer goods.
+
+The COVID-19 pandemic has highlighted the need for alternate, secure, and contactless delivery modalities. Due to this, demand for drone delivery services has increased globally.
+
+Drone deliveries utilize GPS to help navigate their way to a customer’s home. Once it reaches its final location for drop-off, built-in cameras and sonar tech help a drone avoid obstacles during flight.
+
+For final delivery, a drone may safely lower the item to a safe location marked by a QR code. Customers can use a specially marked mat to identify this drop-off point correctly. The drone will scan this code to verify the delivery. If successful, the order gets lowered onto the mat. Once , the drone will return to the warehouse, ready for another order. 
+
+By investing in UAV technology, they are speeding up delivery times and allowing integrations with mobile phone applications to enhance their customer experiences.
